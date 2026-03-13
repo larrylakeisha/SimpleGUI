@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: SimpleGUI
+PURPOSE OF PROJECT: Create a GUI
+VERSION or DATE:03/12/2026
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
